@@ -168,7 +168,7 @@ app.get('/product', (req, res) => {
         //Determine the SQL LIMIT starting number
         const startingLimit = (page - 1) * resultsPerPage;
         //Get the relevant number of POSTS for this starting page
-        var sql = `SELECT  product.productId, product.productName, product.fk_category_id, category.categoryName FROM product INNER JOIN category ON product.fk_category_id=category.categoryId LIMIT ${startingLimit},${resultsPerPage}`;
+        var sql = `SELECT  product.productId, product.productName, product.fk_category_id, category.categoryName FROM product INNER JOIN category ON product.fk_category_id=category.categoryId ORDER BY productId LIMIT ${startingLimit},${resultsPerPage}`;
         con.query(sql, (err, result)=>{
             let iterator = (page - 5) < 1 ? 1 : page - 5;
             let endingLink = (iterator + 9) <= numberOfPages ? (iterator + 9) : page + (numberOfPages - page);
