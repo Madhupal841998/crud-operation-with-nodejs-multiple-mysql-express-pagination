@@ -1,0 +1,11 @@
+<h1>Update Product</h1>
+<form action="" method="POST">
+    <input type="hidden" value="<%- product[0].Id %> " name="Id" placeholder="ID"><br>
+    <label for="productId">Product ID: </label>  
+    <input type="number" value="<%= product[0].productId %> " name="productId" placeholder="Product ID"><br>
+    <label for="productName">Product Name:</label>  
+    <input type="text" value="<%= product[0].productName %> " name="productName" placeholder="Product Name"><br>
+        <label for="categoryId">Category ID:</label>  
+        <input type="number" value="<%= product[0].fk_category_id %> " name="fk_category_id" placeholder="Category ID"><br>
+    <input type="submit" value="Submit">
+</form>

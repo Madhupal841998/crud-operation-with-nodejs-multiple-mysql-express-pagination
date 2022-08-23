@@ -1,0 +1,9 @@
+<h1>Update Category</h1>
+<form action="" method="POST">
+    <input type="hidden" value="<%- category[0].id %> " name="id" placeholder="ID"><br>
+    <label for="categoryId">Category ID: </label>  
+    <input type="number" value="<%= category[0].categoryId %> " name="categoryId" placeholder="Category ID"><br>
+    <label for="categoryName">Category Name:</label>  
+    <input type="text" value="<%= category[0].categoryName %> " name="categoryName" placeholder="Category Name"><br>
+    <input type="submit" value="Submit">
+</form>
