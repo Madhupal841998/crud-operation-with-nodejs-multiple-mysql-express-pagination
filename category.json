@@ -1,0 +1,37 @@
+﻿[
+    {
+        "id": "1",
+        "categoryId": "1",
+        "categoryName": "Clothes"
+    },
+    {
+        "id": "2",
+        "categoryId": "2",
+        "categoryName": "Electronics"
+    },
+    {
+        "id": "7",
+        "categoryId": "3",
+        "categoryName": "Grocery"
+    },
+    {
+        "id": "4",
+        "categoryId": "4",
+        "categoryName": "Furniture"
+    },
+    {
+        "id": "5",
+        "categoryId": "5",
+        "categoryName": "Medicine"
+    },
+    {
+        "id": "8",
+        "categoryId": "6",
+        "categoryName": "Books"
+    },
+    {
+        "id": "6",
+        "categoryId": "7",
+        "categoryName": "Toys"
+    }
+]

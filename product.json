@@ -1,0 +1,602 @@
+﻿[
+    {
+        "Id": "1",
+        "productId": "1",
+        "productName": "Shirt ",
+        "fk_category_id": "1"
+    },
+    {
+        "Id": "2",
+        "productId": "2",
+        "productName": "Doll",
+        "fk_category_id": "7"
+    },
+    {
+        "Id": "3",
+        "productId": "3",
+        "productName": "Rice",
+        "fk_category_id": "3"
+    },
+    {
+        "Id": "4",
+        "productId": "4",
+        "productName": "Wheat",
+        "fk_category_id": "3"
+    },
+    {
+        "Id": "5",
+        "productId": "5",
+        "productName": "Crocin",
+        "fk_category_id": "5"
+    },
+    {
+        "Id": "6",
+        "productId": "6",
+        "productName": "Dolo-650",
+        "fk_category_id": "5"
+    },
+    {
+        "Id": "7",
+        "productId": "7",
+        "productName": "Building-Block",
+        "fk_category_id": "7"
+    },
+    {
+        "Id": "8",
+        "productId": "8",
+        "productName": "Table",
+        "fk_category_id": "4"
+    },
+    {
+        "Id": "9",
+        "productId": "9",
+        "productName": "Pant",
+        "fk_category_id": "1"
+    },
+    {
+        "Id": "10",
+        "productId": "10",
+        "productName": "T-Shirt",
+        "fk_category_id": "1"
+    },
+    {
+        "Id": "11",
+        "productId": "11",
+        "productName": "Milk",
+        "fk_category_id": "3"
+    },
+    {
+        "Id": "12",
+        "productId": "12",
+        "productName": "Computer",
+        "fk_category_id": "2"
+    },
+    {
+        "Id": "13",
+        "productId": "13",
+        "productName": "Sweater",
+        "fk_category_id": "1"
+    },
+    {
+        "Id": "14",
+        "productId": "14",
+        "productName": "In Search of Lost Time by Marcel Proust",
+        "fk_category_id": "6"
+    },
+    {
+        "Id": "15",
+        "productId": "15",
+        "productName": "Cradle",
+        "fk_category_id": "4"
+    },
+    {
+        "Id": "16",
+        "productId": "16",
+        "productName": "Hydrocodone",
+        "fk_category_id": "5"
+    },
+    {
+        "Id": "17",
+        "productId": "17",
+        "productName": "Bread",
+        "fk_category_id": "3"
+    },
+    {
+        "Id": "18",
+        "productId": "18",
+        "productName": "Basket chair",
+        "fk_category_id": "4"
+    },
+    {
+        "Id": "19",
+        "productId": "19",
+        "productName": "Air purifier",
+        "fk_category_id": "2"
+    },
+    {
+        "Id": "20",
+        "productId": "20",
+        "productName": "Barbie",
+        "fk_category_id": "7"
+    },
+    {
+        "Id": "21",
+        "productId": "21",
+        "productName": "Jacket",
+        "fk_category_id": "1"
+    },
+    {
+        "Id": "22",
+        "productId": "22",
+        "productName": "Ulysses by James Joyce",
+        "fk_category_id": "6"
+    },
+    {
+        "Id": "23",
+        "productId": "23",
+        "productName": "Don Quixote by Miguel de Cervantes",
+        "fk_category_id": "6"
+    },
+    {
+        "Id": "24",
+        "productId": "24",
+        "productName": "Bench",
+        "fk_category_id": "4"
+    },
+    {
+        "Id": "25",
+        "productId": "25",
+        "productName": "Seafood",
+        "fk_category_id": "3"
+    },
+    {
+        "Id": "26",
+        "productId": "26",
+        "productName": "Metformin",
+        "fk_category_id": "5"
+    },
+    {
+        "Id": "27",
+        "productId": "27",
+        "productName": "Coat",
+        "fk_category_id": "1"
+    },
+    {
+        "Id": "28",
+        "productId": "28",
+        "productName": "One Hundred Years of Solitude by Gabriel Garcia Marquez",
+        "fk_category_id": "6"
+    },
+    {
+        "Id": "29",
+        "productId": "29",
+        "productName": "couch",
+        "fk_category_id": "4"
+    },
+    {
+        "Id": "30",
+        "productId": "30",
+        "productName": "chicken",
+        "fk_category_id": "3"
+    },
+    {
+        "Id": "31",
+        "productId": "31",
+        "productName": "Losartan",
+        "fk_category_id": "5"
+    },
+    {
+        "Id": "32",
+        "productId": "32",
+        "productName": "Dominoes",
+        "fk_category_id": "7"
+    },
+    {
+        "Id": "33",
+        "productId": "33",
+        "productName": "stool",
+        "fk_category_id": "4"
+    },
+    {
+        "Id": "34",
+        "productId": "34",
+        "productName": "jeans",
+        "fk_category_id": "1"
+    },
+    {
+        "Id": "35",
+        "productId": "35",
+        "productName": "The Great Gatsby by F. Scott Fitzgerald",
+        "fk_category_id": "6"
+    },
+    {
+        "Id": "36",
+        "productId": "36",
+        "productName": "cabinets",
+        "fk_category_id": "4"
+    },
+    {
+        "Id": "37",
+        "productId": "37",
+        "productName": "socks",
+        "fk_category_id": "1"
+    },
+    {
+        "Id": "38",
+        "productId": "38",
+        "productName": "Pasta",
+        "fk_category_id": "3"
+    },
+    {
+        "Id": "39",
+        "productId": "39",
+        "productName": "Antibiotics",
+        "fk_category_id": "5"
+    },
+    {
+        "Id": "40",
+        "productId": "40",
+        "productName": "Frisbee",
+        "fk_category_id": "7"
+    },
+    {
+        "Id": "41",
+        "productId": "41",
+        "productName": "Alarm clock",
+        "fk_category_id": "2"
+    },
+    {
+        "Id": "42",
+        "productId": "42",
+        "productName": "Moby Dick by Herman Melville\r",
+        "fk_category_id": "6"
+    },
+    {
+        "Id": "43",
+        "productId": "43",
+        "productName": "Calculator",
+        "fk_category_id": "2"
+    },
+    {
+        "Id": "44",
+        "productId": "44",
+        "productName": "shorts",
+        "fk_category_id": "1"
+    },
+    {
+        "Id": "45",
+        "productId": "45",
+        "productName": "wardrobe",
+        "fk_category_id": "4"
+    },
+    {
+        "Id": "46",
+        "productId": "46",
+        "productName": "Tomato sauce",
+        "fk_category_id": "3"
+    },
+    {
+        "Id": "47",
+        "productId": "47",
+        "productName": "G.I. Joe",
+        "fk_category_id": "7"
+    },
+    {
+        "Id": "48",
+        "productId": "48",
+        "productName": "Ceiling fan",
+        "fk_category_id": "2"
+    },
+    {
+        "Id": "49",
+        "productId": "49",
+        "productName": "tracksuit",
+        "fk_category_id": "1"
+    },
+    {
+        "Id": "50",
+        "productId": "50",
+        "productName": "War and Peace by Leo Tolstoy",
+        "fk_category_id": "6"
+    },
+    {
+        "Id": "51",
+        "productId": "51",
+        "productName": "Chair",
+        "fk_category_id": "4"
+    },
+    {
+        "Id": "52",
+        "productId": "52",
+        "productName": "Hamlet by William Shakespeare",
+        "fk_category_id": "6"
+    },
+    {
+        "Id": "53",
+        "productId": "53",
+        "productName": "vest",
+        "fk_category_id": "1"
+    },
+    {
+        "Id": "54",
+        "productId": "54",
+        "productName": "Mustard",
+        "fk_category_id": "3"
+    },
+    {
+        "Id": "55",
+        "productId": "55",
+        "productName": "Albuterol",
+        "fk_category_id": "5"
+    },
+    {
+        "Id": "56",
+        "productId": "56",
+        "productName": "Hula Hoop",
+        "fk_category_id": "7"
+    },
+    {
+        "Id": "57",
+        "productId": "57",
+        "productName": "Gabapentin",
+        "fk_category_id": "5"
+    },
+    {
+        "Id": "58",
+        "productId": "58",
+        "productName": "Coffee maker",
+        "fk_category_id": "2"
+    },
+    {
+        "Id": "59",
+        "productId": "59",
+        "productName": "Stool",
+        "fk_category_id": "4"
+    },
+    {
+        "Id": "60",
+        "productId": "60",
+        "productName": "pajamas",
+        "fk_category_id": "1"
+    },
+    {
+        "Id": "61",
+        "productId": "61",
+        "productName": "Antihistamines",
+        "fk_category_id": "5"
+    },
+    {
+        "Id": "62",
+        "productId": "62",
+        "productName": "Digital camera",
+        "fk_category_id": "2"
+    },
+    {
+        "Id": "63",
+        "productId": "63",
+        "productName": "The Odyssey by Homer",
+        "fk_category_id": "6"
+    },
+    {
+        "Id": "64",
+        "productId": "64",
+        "productName": "raincoat",
+        "fk_category_id": "1"
+    },
+    {
+        "Id": "65",
+        "productId": "65",
+        "productName": "vinegar",
+        "fk_category_id": "3"
+    },
+    {
+        "Id": "66",
+        "productId": "66",
+        "productName": "teddy bear.",
+        "fk_category_id": "7"
+    },
+    {
+        "Id": "67",
+        "productId": "67",
+        "productName": "Recliner",
+        "fk_category_id": "4"
+    },
+    {
+        "Id": "68",
+        "productId": "68",
+        "productName": "Electric grill",
+        "fk_category_id": "2"
+    },
+    {
+        "Id": "69",
+        "productId": "69",
+        "productName": "rubber ducky",
+        "fk_category_id": "7"
+    },
+    {
+        "Id": "70",
+        "productId": "70",
+        "productName": "Omeprazole",
+        "fk_category_id": "5"
+    },
+    {
+        "Id": "71",
+        "productId": "71",
+        "productName": "kite.",
+        "fk_category_id": "7"
+    },
+    {
+        "Id": "72",
+        "productId": "72",
+        "productName": "tanktop",
+        "fk_category_id": "1"
+    },
+    {
+        "Id": "73",
+        "productId": "73",
+        "productName": "Earphones",
+        "fk_category_id": "2"
+    },
+    {
+        "Id": "74",
+        "productId": "74",
+        "productName": "Levothyroxine",
+        "fk_category_id": "5"
+    },
+    {
+        "Id": "75",
+        "productId": "75",
+        "productName": "pepper",
+        "fk_category_id": "3"
+    },
+    {
+        "Id": "76",
+        "productId": "76",
+        "productName": "Sofa bed",
+        "fk_category_id": "4"
+    },
+    {
+        "Id": "77",
+        "productId": "77",
+        "productName": "Atorvastatin",
+        "fk_category_id": "5"
+    },
+    {
+        "Id": "78",
+        "productId": "78",
+        "productName": "swimsuit",
+        "fk_category_id": "1"
+    },
+    {
+        "Id": "79",
+        "productId": "79",
+        "productName": "Madame Bovary by Gustave Flaubert",
+        "fk_category_id": "6"
+    },
+    {
+        "Id": "80",
+        "productId": "80",
+        "productName": "Fidget Spinner",
+        "fk_category_id": "7"
+    },
+    {
+        "Id": "81",
+        "productId": "81",
+        "productName": "Washing machine",
+        "fk_category_id": "2"
+    },
+    {
+        "Id": "82",
+        "productId": "82",
+        "productName": "shawl",
+        "fk_category_id": "1"
+    },
+    {
+        "Id": "83",
+        "productId": "83",
+        "productName": "Lolita by Vladimir Nabokov",
+        "fk_category_id": "6"
+    },
+    {
+        "Id": "84",
+        "productId": "84",
+        "productName": "Bathroom cabinet",
+        "fk_category_id": "4"
+    },
+    {
+        "Id": "85",
+        "productId": "85",
+        "productName": "suit",
+        "fk_category_id": "1"
+    },
+    {
+        "Id": "86",
+        "productId": "86",
+        "productName": "The Divine Comedy by Dante Alighieri",
+        "fk_category_id": "6"
+    },
+    {
+        "Id": "87",
+        "productId": "87",
+        "productName": "blouse",
+        "fk_category_id": "1"
+    },
+    {
+        "Id": "88",
+        "productId": "88",
+        "productName": "Cupboard",
+        "fk_category_id": "4"
+    },
+    {
+        "Id": "89",
+        "productId": "89",
+        "productName": "Vacuum cleaner",
+        "fk_category_id": "2"
+    },
+    {
+        "Id": "90",
+        "productId": "90",
+        "productName": "Wuthering Heights by Emily Brontë",
+        "fk_category_id": "6"
+    },
+    {
+        "Id": "91",
+        "productId": "91",
+        "productName": "dress",
+        "fk_category_id": "1"
+    },
+    {
+        "Id": "92",
+        "productId": "92",
+        "productName": "Hot Wheels",
+        "fk_category_id": "7"
+    },
+    {
+        "Id": "93",
+        "productId": "93",
+        "productName": "Laser printer",
+        "fk_category_id": "2"
+    },
+    {
+        "Id": "94",
+        "productId": "94",
+        "productName": "Crime and Punishment by Fyodor Dostoyevsky",
+        "fk_category_id": "6"
+    },
+    {
+        "Id": "95",
+        "productId": "95",
+        "productName": "stockings",
+        "fk_category_id": "1"
+    },
+    {
+        "Id": "96",
+        "productId": "96",
+        "productName": "Desk",
+        "fk_category_id": "4"
+    },
+    {
+        "Id": "97",
+        "productId": "97",
+        "productName": "Television",
+        "fk_category_id": "2"
+    },
+    {
+        "Id": "98",
+        "productId": "98",
+        "productName": "He-Man",
+        "fk_category_id": "7"
+    },
+    {
+        "Id": "99",
+        "productId": "99",
+        "productName": "skirt",
+        "fk_category_id": "1"
+    },
+    {
+        "Id": "100",
+        "productId": "100",
+        "productName": "The Brothers Karamazov by Fyodor Dostoyevsky",
+        "fk_category_id": "6"
+    }
+]
